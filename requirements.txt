@@ -1,0 +1,6 @@
+streamlit>=1.30.0
+flask>=3.0.0
+opencv-python-headless
+numpy
+pandas
+requests
